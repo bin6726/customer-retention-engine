@@ -5,7 +5,7 @@ An interactive, end-to-end Machine Learning web application that predicts custom
 ---
 
 ## 📊 App Simulation Preview
-*(Tip: Once you save this file, click "Edit" and drag your beautiful red and green screenshots right here so recruiters can see it instantly!)*
+https://customer-retention-engine-omkurqhl4dz7q9ansdun6f.streamlit.app/
 
 ---
 
